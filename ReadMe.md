@@ -1,8 +1,8 @@
 ## Joystick
 
 Basic sketch to read position of parallax 2-axis joystick
-- [tutorial](https://www.parallax.com/product/27800)
-- [product page](http://learn.parallax.com/KickStart/27800)
+- [product page](https://www.parallax.com/product/27800)
+- [kickstart page](http://learn.parallax.com/KickStart/27800)
   
 How to use:
 (counting pins from lower-left (look down from top) and going clockwise)
